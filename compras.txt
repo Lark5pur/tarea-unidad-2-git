@@ -1,0 +1,5 @@
+compra 1 
+compra 2 
+compra 3
+
+compra 4
